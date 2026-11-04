@@ -4,6 +4,13 @@ title: about
 permalink: /
 subtitle: "Research profiles · Open scholarship · Academic writing"
 
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false
+  more_info: >
+    <p>Research profiles and writing</p>
+
 social: true
 selected_papers: false
 
